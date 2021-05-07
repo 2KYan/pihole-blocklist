@@ -22,6 +22,7 @@
 0.0.0.0	api.overwatchleague.com
 0.0.0.0	api.twitch.tv
 0.0.0.0	apis.roblox.com
+0.0.0.0	apis.rbxcdn.com
 0.0.0.0	apps.accounts.nintendo.com
 0.0.0.0	as32590.net
 0.0.0.0	asf.justarchi.net
@@ -366,15 +367,6 @@
 0.0.0.0	status.discordapp.com
 0.0.0.0	status.leagueoflegends.com
 0.0.0.0	status.playstation.com
-0.0.0.0	steam-backlog.com
-0.0.0.0	steam-chat.com
-0.0.0.0	steam-friends.info
-0.0.0.0	steam-tools.net
-0.0.0.0	steam-tracker.com
-0.0.0.0	steam.cyrogenix.com
-0.0.0.0	steam.design
-0.0.0.0	steam.net
-0.0.0.0	steam.pm
 0.0.0.0	steam.psykzz.com
 0.0.0.0	steam.seewang.me
 0.0.0.0	steam.tools
@@ -571,7 +563,6 @@
 0.0.0.0	www.steamgifts.com
 0.0.0.0	www.steamid.co.uk
 0.0.0.0	www.steamidlemaster.com
-0.0.0.0	www.steamkiwi.com
 0.0.0.0	www.steamleft.com
 0.0.0.0	www.steamtradematcher.com
 0.0.0.0	www.steamtrades.com
