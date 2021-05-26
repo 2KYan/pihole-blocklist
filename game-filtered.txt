@@ -40,13 +40,7 @@
 0.0.0.0	best.discord.media
 0.0.0.0	bigbeans.solutions
 0.0.0.0	bladeandsoul.com
-0.0.0.0	blizzard.com
 0.0.0.0	blog.fr.playstation.com
-0.0.0.0	blzddist1-a.akamaihd.net
-0.0.0.0	blzmedia-a.akamaihd.net
-0.0.0.0	blzprofile.akamaized.net
-0.0.0.0	bnetcmsus-a.akamaihd.net
-0.0.0.0	bneteu-a.akamaihd.net
 0.0.0.0	bunchkeys.com
 0.0.0.0	bundled.in
 0.0.0.0	bundlestars.com
@@ -68,7 +62,6 @@
 0.0.0.0	completionator.com
 0.0.0.0	completionist.me
 0.0.0.0	consogame.com
-0.0.0.0	conv-blizzard-emea.cd.serving-sys.com
 0.0.0.0	counter-strike.com.tw
 0.0.0.0	counter-strike.net
 0.0.0.0	counter-strike3.net
@@ -134,9 +127,6 @@
 0.0.0.0	es-mx.socialclub.rockstargames.com
 0.0.0.0	es.isthereanydeal.com
 0.0.0.0	es.socialclub.rockstargames.com
-0.0.0.0	eu.api.blizzard.com
-0.0.0.0	eu.battle.net
-0.0.0.0	eu.cdn.blizzard.com
 0.0.0.0	eu.launcher.battle.net
 0.0.0.0	eu.playstation.com
 0.0.0.0	eu.version.battle.net
@@ -227,7 +217,6 @@
 0.0.0.0	humblebundle.com
 0.0.0.0	id.sonyentertainmentnetwork.com
 0.0.0.0	ign.com
-0.0.0.0	iir.blizzard.com
 0.0.0.0	images-ext-1.discordapp.net
 0.0.0.0	images-ext-2.discordapp.net
 0.0.0.0	indiegala.com
@@ -252,8 +241,6 @@
 0.0.0.0	learnwithportals.com
 0.0.0.0	leftfourdead.com
 0.0.0.0	leftfourdead.net
-0.0.0.0	level3.blizzard.com
-0.0.0.0	level3.ssl.blizzard.com
 0.0.0.0	login.leagueoflegends.com
 0.0.0.0	lol.secure.dyn.riotcdn.net
 0.0.0.0	lolalytics.com
@@ -296,7 +283,6 @@
 0.0.0.0	opposing-force.net
 0.0.0.0	opposing-force.org
 0.0.0.0	opposingforce.com
-0.0.0.0	originassets.akamaized.net
 0.0.0.0	otakumaker.com
 0.0.0.0	pcgameit.com
 0.0.0.0	pcgamer.com
@@ -346,7 +332,6 @@
 0.0.0.0	servc.eu
 0.0.0.0	sgtools.info
 0.0.0.0	shadow.tech
-0.0.0.0	shopatvalve.com
 0.0.0.0	signin.ea.com
 0.0.0.0	signin.rockstargames.com
 0.0.0.0	signup-api.leagueoflegends.com
@@ -454,9 +439,6 @@
 0.0.0.0	truesteamachievements.com
 0.0.0.0	twitch.tv
 0.0.0.0	uk.gamesplanet.com
-0.0.0.0	us.api.blizzard.com
-0.0.0.0	us.battle.net
-0.0.0.0	us.cdn.blizzard.com
 0.0.0.0	us.launcher.battle.net
 0.0.0.0	us.playstation.com
 0.0.0.0	us.version.battle.net
@@ -479,7 +461,6 @@
 0.0.0.0	www.backloggery.com
 0.0.0.0	www.battle.net
 0.0.0.0	www.bladeandsoul.com
-0.0.0.0	www.blizzard.com
 0.0.0.0	www.bundlestars.com
 0.0.0.0	www.cdkeyit.it
 0.0.0.0	www.cdkeys.com
