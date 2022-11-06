@@ -564,6 +564,8 @@
 0.0.0.0	zh.socialclub.rockstargames.com
 0.0.0.0	tf.tf666.vip
 0.0.0.0	s.hzcb.red
+0.0.0.0	inbox.brawlstars.com
+0.0.0.0	game.brawlstarsgame.com
 0.0.0.0	id.supercell.com
 0.0.0.0	cdn.id.supercell.com
 0.0.0.0	supercell.helpshift.com
