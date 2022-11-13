@@ -570,4 +570,4 @@
 0.0.0.0	cdn.id.supercell.com
 0.0.0.0	supercell.helpshift.com
 0.0.0.0	fandom.com
-0.0.0.0	.com
+0.0.0.0	brawlstars.fandom.com
